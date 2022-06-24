@@ -1,3 +1,3 @@
 # javascript-intro
 
-http://deborahjacobs.github.io/javascript-intro
+https://deborahjacobs.github.io/javascript-intro
